@@ -16,9 +16,9 @@ I focus on creating responsive, fast, and interactive interfaces.
 
 ## 📬 Connect with me
 - 📍 Location: Tashkent, Uzbekistan  
-- 📸 Instagram: @your_username  
-- 💼 LinkedIn: your_linkedin_link  
-- 📱 Telegram: @your_username  
+- 📸 Instagram: https://www.instagram.com/oybek_yamachi/?next=
+- 💼 YouTube: https://www.youtube.com/@Oybek_yamachi 
+- 📱 Telegram: https://t.me/oybek_yamachi 
 
 💬 Ask me about: Front-End, React, JavaScript, UI/UX
 
